@@ -1,6 +1,7 @@
 ## 会员管理系统
-
-* 本软件可以便捷的帮您管理您的会员（和他们的储值卡余额）
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mike-brown8/VIP_Manager)
+[![GitHub issues](https://img.shields.io/github/issues/mike-brown8/VIP_Manager)](https://github.com/mike-brown8/VIP_Manager/issues)
+* 本软件可以便捷的帮您管理您的会员和您的会员卡
 
 ### 如何使用？
 1. 下载Release中的最新版本
