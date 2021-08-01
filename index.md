@@ -1,6 +1,6 @@
 ## 会员管理系统
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/mike-brown8/VIP_Manager)
-[![GitHub issues](https://img.shields.io/github/issues/mike-brown8/VIP_Manager)](https://github.com/mike-brown8/VIP_Manager/issues)
+[![GitHub license](https://img.shields.io/github/license/mike-brown8/VIP_Manager)](https://github.com/mike-brown8/VIP_Manager)
 * 本软件可以便捷的帮您管理您的会员和您的会员卡
 
 ### 如何使用？
@@ -29,7 +29,4 @@
 ![预览图](https://i.loli.net/2021/08/01/RjyFWvhVMtb4cgQ.png)
 
 ### 已知问题
-* ❌代表未修复 ✔代表已修复
-
-1. ❌ 数据搜索不稳定
-   * 临时解决方法：Esc重启面板
+请见[![GitHub issues](https://img.shields.io/github/issues/mike-brown8/VIP_Manager?style=for-the-badge)](https://github.com/mike-brown8/VIP_Manager/issues)
