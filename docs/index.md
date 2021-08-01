@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## 会员管理系统
 
-You can use the [editor on GitHub](https://github.com/mike-brown8/VIP_Manager/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+* 本软件可以便捷的帮您管理您的会员（和他们的储值卡余额）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 如何使用？
+1. 下载Release中的最新版本
+2. 放置到一个独立的文件夹
+3. 运行软件即可
 
-### Markdown
+### 优势
+* 采用SQLIte数据库
+   * 巨量不损坏<sup>1</sup>
+   * 搜索迅速<sup>2</sup>
+* 32位单文件软件
+   * 运行飞速
+* 破除运行内存限制
+   * 2G+不再溢出<sup>3</sup>
+* 自带日志
+   * 一目了然
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<sup>1</sup>SQLIte数据库最大支持128TiB
 
-```markdown
-Syntax highlighted code block
+<sup>2</sup> ≤100000条数据
 
-# Header 1
-## Header 2
-### Header 3
+<sup>3</sup> 实际最大值由可用内存为准
 
-- Bulleted
-- List
+### 已知问题
+* ❌代表未修复 ✔代表已修复
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mike-brown8/VIP_Manager/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. ❌ 数据搜索不稳定
+   * 临时解决方法：Esc重启面板
