@@ -4,7 +4,7 @@
 * 本软件可以便捷的帮您管理您的会员和您的会员卡
 
 ### 如何使用？
-1. 下载Release中的最新版本
+1. 下载[Releases](https://github.com/mike-brown8/VIP_Manager/releases/latest)中的最新版本
 2. 放置到一个独立的文件夹
 3. 运行软件即可
 
