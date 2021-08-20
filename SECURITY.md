@@ -8,4 +8,4 @@
 
 小漏洞请到Issues报告
 
-重大缺陷请发邮件到[nohuitou@outlook.com](mailto:nohuitou@outlook.com?subject=VIP_Manager 重大漏洞反馈)主题注明“VIP_Manager 重大漏洞反馈”
+重大缺陷请发邮件到[nohuitou@outlook.com](mailto:nohuitou@outlook.com?subject=VIP_Manager重大漏洞反馈)主题注明“VIP_Manager 重大漏洞反馈”
