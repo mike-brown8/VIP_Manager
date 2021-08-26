@@ -1,8 +1,8 @@
 ---
-name: 故障反馈
-about: 创建反馈以帮助我们改进
+name: 重大缺陷
+about: 如果你遇到了重大软件缺陷，请立即在此反馈！
 title: ''
-labels: 故障
+labels: 故障, 需要关注
 assignees: ''
 
 ---
