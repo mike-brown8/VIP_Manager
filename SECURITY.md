@@ -1,11 +1,18 @@
 # 安全政策
 
-## 支持的版本
+## 不受支持的版本 / Unsupported version
 
-2.2.0.2013 及更新版本
+* 2.X
+* 1.X
+* Beta
+* Alpha
 
-## 报告漏洞
+## 受到支持的版本 / Supported version
 
-小漏洞请到Issues报告
+* 3.0 及更高版本 / 3.0 and later
 
-重大缺陷请发邮件到[nohuitou@outlook.com](mailto:nohuitou@outlook.com?subject=VIP_Manager重大漏洞反馈)主题注明“VIP_Manager 重大漏洞反馈”
+## 如何报告漏洞 / How to report vulnerabilities
+
+请点击 [[这里](mailto:nohuitou@outlook.com?subject=VIP_Manager安全漏洞 "点击以发送")] 以发送主题为“VIP_Manager 安全漏洞”的邮件。
+
+Please click [[here](mailto:nohuitou@outlook.com?subject=VIP_Manager_security vulnerability "click to send")] to send an email with the subject "VIP_Manager security vulnerability".

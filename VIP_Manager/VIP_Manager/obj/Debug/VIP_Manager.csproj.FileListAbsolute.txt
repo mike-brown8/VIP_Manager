@@ -1,0 +1,12 @@
+C:\Users\nohui.DESKTOP-3Q8AB3G\OneDrive\文档\GitHub\VIP_Manager\VIP_Manager\VIP_Manager\bin\Debug\VIP_Manager.exe.config
+C:\Users\nohui.DESKTOP-3Q8AB3G\OneDrive\文档\GitHub\VIP_Manager\VIP_Manager\VIP_Manager\bin\Debug\VIP_Manager.exe
+C:\Users\nohui.DESKTOP-3Q8AB3G\OneDrive\文档\GitHub\VIP_Manager\VIP_Manager\VIP_Manager\bin\Debug\VIP_Manager.pdb
+C:\Users\nohui.DESKTOP-3Q8AB3G\OneDrive\文档\GitHub\VIP_Manager\VIP_Manager\VIP_Manager\obj\Debug\VIP_Manager.csprojResolveAssemblyReference.cache
+C:\Users\nohui.DESKTOP-3Q8AB3G\OneDrive\文档\GitHub\VIP_Manager\VIP_Manager\VIP_Manager\obj\Debug\VIP_Manager.Properties.Resources.resources
+C:\Users\nohui.DESKTOP-3Q8AB3G\OneDrive\文档\GitHub\VIP_Manager\VIP_Manager\VIP_Manager\obj\Debug\VIP_Manager.csproj.GenerateResource.Cache
+C:\Users\nohui.DESKTOP-3Q8AB3G\OneDrive\文档\GitHub\VIP_Manager\VIP_Manager\VIP_Manager\obj\Debug\VIP_Manager.exe
+C:\Users\nohui.DESKTOP-3Q8AB3G\OneDrive\文档\GitHub\VIP_Manager\VIP_Manager\VIP_Manager\obj\Debug\VIP_Manager.pdb
+C:\Users\nohui.DESKTOP-3Q8AB3G\OneDrive\文档\GitHub\VIP_Manager\VIP_Manager\VIP_Manager\bin\Debug\byn\VIP_Manager.resources.dll
+C:\Users\nohui.DESKTOP-3Q8AB3G\OneDrive\文档\GitHub\VIP_Manager\VIP_Manager\VIP_Manager\obj\Debug\VIP_Manager.Window.resources
+C:\Users\nohui.DESKTOP-3Q8AB3G\OneDrive\文档\GitHub\VIP_Manager\VIP_Manager\VIP_Manager\obj\Debug\VIP_Manager.Window.byn.resources
+C:\Users\nohui.DESKTOP-3Q8AB3G\OneDrive\文档\GitHub\VIP_Manager\VIP_Manager\VIP_Manager\obj\Debug\byn\VIP_Manager.resources.dll
