@@ -1,7 +1,8 @@
 # VIP_Manager
  会员管理系统
  
- * 使用 [易语言](http://www.eyuyan.com/) 编程
+ * v4使用 [易语言](http://www.eyuyan.com/) 编程
+ * v5使用 C# 编程
 
 **欢迎fork来创建自己的项目**
 
